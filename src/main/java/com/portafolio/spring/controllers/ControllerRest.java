@@ -1,4 +1,4 @@
-package com.portafolio.spring;
+package com.portafolio.spring.controllers;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
